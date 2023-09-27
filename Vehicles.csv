@@ -1,0 +1,20 @@
+sh01,ship,50,100,100,ship,ABC
+tr02,tanker truck,25,40,32,truck,asd
+tr03,basic truck,20,12,30,truck,ABC
+tr04,basic truck,15,25,30,truck,CDF
+tr05,reefer truck,30,20,40,truck,FGH
+sh06,ship,69,100,100,ship,ZIB
+sh07,ship,70,110,100,ship,CDF
+tr08,reefer truck,30,20,40,truck,FGH
+tr09,basic truck,15,25,30,truck,ZIB
+tr10,tanker truck,25,40,32,truck,asd
+sh11,basic truck,20,12,30,truck,ABC
+tr12,reefer truck,30,20,40,truck,ZIB
+tr13,basic truck,20,12,30,truck,ABC
+sh14,ship,69,100,100,ship,asd
+tr15,reefer truck,30,20,40,truck,ABC
+sh16,ship,69,100,100,ship,CDF
+sh17,ship,69,100,100,ship,FGH
+tr18,tanker truck,25,40,32,truck,asd
+tr19,reefer truck,30,20,40,truck,CDF
+tr20,basic truck,15,25,30,truck,asd
